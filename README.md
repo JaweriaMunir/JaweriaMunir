@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as CMS developer
 - 🌱 I’m currently working as wordpress developer, developing websites from scratch and also have expertise in HTML, CSS
 - 💞️ I’m looking to collaborate on wordpress environment
-- 📫 How to reach me on fiver and upwork too
+- 📫 You can reach me on fiver and upwork too
 
 <!---
 JaweriaMunir/JaweriaMunir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
